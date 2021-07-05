@@ -1,0 +1,2 @@
+D:\Files\Учёба\Логика\lab4\lab4\x64\Debug\lab4.exe
+D:\Files\Учёба\Логика\lab4\lab4\x64\Debug\lab4.pdb

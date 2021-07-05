@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Files\Учёба\Логика\Kursa4\Kursa4\Kursa4\Source.cpp(89,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Kursa4.vcxproj -> D:\Files\Учёба\Логика\Kursa4\Kursa4\Debug\Kursa4.exe

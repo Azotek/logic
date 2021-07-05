@@ -1,0 +1,11 @@
+﻿  difference.cpp
+  lab1.cpp
+D:\Files\Учёба\Логика\lab1\lab1\algorythms-lab1\lab1.cpp(23,27): warning C4244: аргумент: преобразование "time_t" в "int", возможна потеря данных
+D:\Files\Учёба\Логика\lab1\lab1\algorythms-lab1\lab1.cpp(33,35): warning C4244: аргумент: преобразование "time_t" в "int", возможна потеря данных
+D:\Files\Учёба\Логика\lab1\lab1\algorythms-lab1\lab1.cpp(43,40): warning C4244: аргумент: преобразование "time_t" в "int", возможна потеря данных
+  random.cpp
+  search.cpp
+  size.cpp
+  Summ.cpp
+  Создание кода...
+  algorythms-lab1.vcxproj -> D:\Files\Учёба\Логика\lab1\lab1\x64\Debug\algorythms-lab1.exe
